@@ -1,7 +1,4 @@
-# im2recipe: Learning Cross-modal Embeddings for Cooking Recipes and Food Images
-
-This repository contains the code to train and evaluate models from the paper:  
-_Learning Cross-modal Embeddings for Cooking Recipes and Food Images_
+# Food to Recipes Retrieval System: Cross-modal Embeddings for Cooking Recipes and Food Images
 
 Important note: In this repository the Skip-instructions has not been reimplemented in Pytorch, instead needed features are provided to train, validate and test the tri_joint model.
 
